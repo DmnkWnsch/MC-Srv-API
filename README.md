@@ -6,3 +6,5 @@ Es kommt ausschließlich **Java** zum Einsatz.
 ## Nutzen
 
 Die API wurde benötigt, um auf verschiedenen Spielservern, auf denen sich die Spieler aufhalten können, oft verwendete Funktionen zur Verfügung zu stellen, die die Programmierung erleichtern und vereinheitlichen sollten.
+
+**Diese Software ist nicht lauffähig.**
