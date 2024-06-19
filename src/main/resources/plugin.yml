@@ -1,0 +1,5 @@
+name: McSrvAPI
+version: 1.0.0
+
+main: net.mcsrvapi.main.api.McSrvAPI
+depend: [DatabaseHandler, TranslationHandler]
